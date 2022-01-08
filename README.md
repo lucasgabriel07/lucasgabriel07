@@ -1,16 +1,36 @@
-### Hi there 👋
+## Oi, sou o Lucas 👋
 
-<!--
-**lucasgabriel07/lucasgabriel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação na Universidade Federal do Maranhão.
+##
 
-Here are some ideas to get you started:
+<a href="https://github.com/lucasgabriel07">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriel07&layout=compact&langs_count=7&theme=dracula">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 40px;"/>
+  </a>
+  <a href="https://github.com/lucasgabriel07">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px;"/>
+  </a>
+</div>
+
+##
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-araujo-ribeiro/)](https://www.linkedin.com/in/lucas-gabriel-araujo-ribeiro/)
